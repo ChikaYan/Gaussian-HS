@@ -5,7 +5,7 @@
 <img src="assets/teaser.png" width="650" height="223"/> 
 
 ## Getting Started
-* Clone this repo recursively: `git clone git@github.com:********.git --recursive`
+* Clone this repo recursively: `git clone git@ChikaYan/Gaussian-HS.git --recursive`
 * Create a conda or python environment and activate. For e.g., `conda create -n anchor_gaussian python=3.9.18; conda activate anchor_gaussian`.
 * Install PyTorch 1.11.0 with conda or pip ([instructions](https://pytorch.org/get-started/previous-versions/)).
 * Install PyTorch3d, we tested with 0.6.2, but any version should be fine
