@@ -1,6 +1,6 @@
 # Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping
 
-## [Paper](https://arxiv.org/abs/2405.12069) | [Project Page](https://gaussian-head-shoulders.netlify.app/)
+## [Paper](https://arxiv.org/abs/2405.12069) | [Project Page](https://gaussian-head-shoulders.netlify.app/) | [Data](https://drive.google.com/drive/folders/123DTRPc-Gfpl3pKbzmuNk4nBk72vWyS_?usp=sharing)
 
 <img src="assets/teaser.png" width="650" height="223"/> 
 
