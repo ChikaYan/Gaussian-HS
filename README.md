@@ -16,7 +16,7 @@
 ## Preparing dataset
 Our data format is the same as [IMavatar](https://github.com/zhengyuf/IMavatar/). 
 
-Please download the subject 1 from PointAvatar at https://dataset.ait.ethz.ch/downloads/IMavatar_data/data/subject3.zip, rename `subject3` to `001` and then merge with `001.zip` in our released, which contains the additional DWposes needed to run our method. 
+Please download the subject 3 from PointAvatar at https://dataset.ait.ethz.ch/downloads/IMavatar_data/data/subject3.zip, rename `subject3` to `001` and then merge with `001.zip` in our released, which contains the additional DWposes needed to run our method. 
 
 
 
